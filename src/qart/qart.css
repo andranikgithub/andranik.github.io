@@ -1,0 +1,352 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.a50{
+    width: 100%;
+    height: 146px;
+    background-color: #323b43;
+}
+.a51{
+    width: 100%;
+    height: 80px;
+    background-color: #323b43;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a52{
+    width: 92%;
+    height: 80px;
+    background-color: #323b43;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a53{
+    margin-left: 0px;
+}
+.a54{
+    margin-left: 15px;
+}
+.a55{
+    margin-left: 15px;
+}
+.a56{
+    margin-left: 15px;
+}
+.a57{
+    margin-left: 15px;
+}
+.a58{
+    margin-left: 15px;
+}
+.a59{
+    width: 100%;
+    height: 66px;
+    background-color: #323b43;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid #d2d2d2;
+    border-bottom: 1px solid #dfdfdf;
+}
+.a60{
+    width: 92%;
+    height: 66px;
+    background-color: #323b43;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid #d2d2d2;
+    border-bottom: 1px solid #dfdfdf;
+
+}
+.a61{
+    font-size: 13px;
+    margin-left: 15px;
+    cursor: pointer;
+    color: aliceblue;
+}
+.a62{
+    font-size: 13px;
+    margin-left: 15px;
+    cursor: pointer;
+    color: aliceblue;
+}
+.a63{
+    font-size: 13px;
+    margin-left: 15px;
+    cursor: pointer;
+    color: aliceblue;
+}
+.a64{
+    font-size: 13px;
+    margin-left: 15px;
+    cursor: pointer;
+    color: aliceblue;
+}
+.a65{
+    font-size: 13px;
+    margin-left: 15px;
+    cursor: pointer;
+    color: aliceblue;
+}
+@media screen and (max-width:950px) and (min-width:810px) {
+    .a53{
+        width: 18%;
+        height: 82px;
+        margin-left: 0px;
+    }
+    .a54{
+        width: 40%;
+        height: 20px;
+        margin-left: 0px;
+    }
+    .a55{
+        width: 40%;
+        height: 20px;
+        margin-left: 0px;
+    }
+    .a56{
+        width: 40%;
+        height: 20px;
+        margin-left: 0px;
+    }
+    .a57{
+        width: 40%;
+        height: 20px;
+        margin-left: 0px;
+    }
+    .a58{
+        width: 40%;
+        height: 20px;
+        margin-left: 0px;
+    }
+}
+@media screen and (max-width:810px) and (min-width:750px) {
+    .a53{
+        width: 18%;
+        height: 82px;
+        margin-left: 0px;
+    }
+    .a54{
+        width: 40%;
+        height: 20px;
+        margin-left: 0px;
+    }
+    .a55{
+        width: 40%;
+        height: 20px;
+        margin-left: 0px;
+    }
+    .a56{
+        width: 40%;
+        height: 20px;
+        margin-left: 0px;
+    }
+    .a57{
+        width: 40%;
+        height: 20px;
+        margin-left: 0px;
+    }
+    .a58{
+        width: 40%;
+        height: 20px;
+        margin-left: 0px;
+    }
+    .a61 {
+        font-size: 12px;
+        margin-left: 15px;
+        cursor: pointer;
+        color: aliceblue;
+    }
+    .a62 {
+        font-size: 12px;
+        margin-left: 15px;
+        cursor: pointer;
+        color: aliceblue;
+    }
+    .a63 {
+        font-size: 12px;
+        margin-left: 15px;
+        cursor: pointer;
+        color: aliceblue;
+    }
+    .a64 {
+        font-size: 12px;
+        margin-left: 15px;
+        cursor: pointer;
+        color: aliceblue;
+    }
+    .a65 {
+        font-size: 12px;
+        margin-left: 15px;
+        cursor: pointer;
+        color: aliceblue;
+    }
+}
+@media screen and (max-width:750px) and (min-width:700px) {
+    .a53 {
+        width: 18%;
+        height: 19px;
+        margin-left: 10px;
+    }
+    .a54{
+        width: 18%;
+        height: 19px;
+        margin-left: 10px;
+    }
+    .a55{
+        width: 18%;
+        height: 19px;
+        margin-left: 10px;
+    }
+    .a56{
+        width: 18%;
+        height: 19px;
+        margin-left: 10px;
+    }
+    .a57{
+        width: 18%;
+        height: 19px;
+        margin-left: 20px;
+    }
+    .a58{
+        width: 40%;
+        height: 20px;
+        margin-left: 0px;
+    }
+    .a61 {
+        font-size: 11px;
+        margin-left: 0px;
+        cursor: pointer;
+        color: aliceblue;
+    }
+    .a62 {
+        font-size: 11px;
+        margin-left: 15px;
+        cursor: pointer;
+        color: aliceblue;
+    }
+    .a63 {
+        font-size: 11px;
+        margin-left: 15px;
+        cursor: pointer;
+        color: aliceblue;
+    }
+    .a64 {
+        font-size: 11px;
+        margin-left: 15px;
+        cursor: pointer;
+        color: aliceblue;
+    }
+    .a65 {
+        font-size: 11px;
+        margin-left: 15px;
+        cursor: pointer;
+        color: aliceblue;
+    }
+}
+@media screen and (max-width:700px) and (min-width:310px) {
+    .a50 {
+        width: 100%;
+        height: 206px;
+        background-color: #323b43;
+    }
+    .a51 {
+        width: 100%;
+        height: 100px;
+        background-color: #323b43;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .a52 {
+        width: 92%;
+        height: 100px;
+        background-color: #323b43;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .a59 {
+        width: 100%;
+        height: 97px;
+        background-color: #323b43;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .a60 {
+        width: 92%;
+        height: 90px;
+        background-color: #323b43;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .a53 {
+        width: 18%;
+        height: 19px;
+        margin-left: 5%;
+    }
+    .a54{
+        width: 18%;
+        height: 19px;
+        margin-left: 10%;
+    }
+    .a55{
+        width: 18%;
+        height: 19px;
+        margin-left: 10%;
+    }
+    .a56{
+        width: 21%;
+        height: 19px;
+        margin-left: 1%;
+    }
+    .a57{
+        width: 18%;
+        height: 19px;
+        margin-left: 40px;
+    }
+    .a58{
+        width: 18%;
+        height: 20px;
+        margin-left: 10%;
+    }
+    .a61 {
+        font-size: 14px;
+        margin-left: 0px;
+        cursor: pointer;
+        color: aliceblue;
+    }
+    .a62 {
+        font-size: 14px;
+        margin-left: 15px;
+        cursor: pointer;
+        color: aliceblue;
+    }
+    .a63 {
+        font-size: 14px;
+        margin-left: 15px;
+        cursor: pointer;
+        color: aliceblue;
+    }
+    .a64 {
+        font-size: 14px;
+        margin-left: 15px;
+        cursor: pointer;
+        color: aliceblue;
+    }
+    .a65 {
+        font-size: 14px;
+        margin-left: 15px;
+        cursor: pointer;
+        color: aliceblue;
+    }
+}

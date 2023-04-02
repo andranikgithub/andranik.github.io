@@ -1,0 +1,432 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.heder{
+    width: 100%;
+    height: 64px;
+    background-color: #1D2329;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heder-off{
+width: 92%;
+height: 64px;
+background-color: #1d232900;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.heder-1{
+    width: 50%;
+    height: 64px;
+    background-color: #1d232900;
+    display: flex;
+    align-items: center;
+}
+.heder-1 h1{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heder2{
+    width: 20%;
+    height: 64px;
+    background-color: #1D2329E6;
+    display: flex;
+    align-items: center;
+}
+.heder2 input{
+    width: 220px;
+    height: 40px;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+.heder2 button{
+    width: 33px;
+    height: 37.5px;
+    background-color: #1D2329;
+    border: 1px solid aliceblue;
+}
+.heder3{
+    width: 26%;
+    height: 64px;
+    background-color: #1D2323;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn-0{
+    width: 220px;
+    height: 40px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border: 0px solid;
+    color: aliceblue;
+    background-color:#1D2329E6 ;
+}
+.btn-0 h3{
+    font-size: 25px;
+}
+.heder3 input{
+    width: 220px;
+    height: 40px;
+display: flex;
+justify-content: center;
+align-items: center;
+border-top-left-radius: 4px;
+border-bottom-left-radius: 4px;
+margin-left: 5px;
+}
+.heder3 button{
+    width: 33px;
+    height: 37.5px;
+    background-color: #1D2329;
+    border: 1px solid aliceblue;
+}
+.heder-4{
+    width: 20%;
+    height: 64px;
+    background-color: rgba(255, 255, 47, 0);
+    display: flex;
+    align-items: center;
+
+}
+.btn-1{
+    width: 80px;
+    height: 40px;
+border-radius: 5px;
+background-color: #01AC2D;
+color: aliceblue;
+border: 0px solid;
+margin-left: 20px;
+cursor: pointer;
+}
+.btn-2{
+    width: 107px;
+    height: 40px;
+border-radius: 5px;
+margin-left: 10px;
+border: 0px solid;
+background-color: #323B43;
+color: aliceblue;
+cursor: pointer;
+}
+.heder-5{
+    width: 5%;
+    height: 64px;
+    background-color: rgba(47, 255, 182, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heder-5 img{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+.a1{
+    width: 32px;
+    height: 32px;
+    background-color: #202830;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/*  */
+button h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    color: #A2A9B3;
+}
+.heder-1 .ad1{
+    width: 250px ;
+    height: 100px ;
+cursor: pointer;
+
+} 
+@media screen and (max-width:2000px) and (min-width:1070px) {
+   .heder-1 .ad{
+        width:40%;
+        height: 56px;
+        display: none;
+        }
+}
+
+@media screen and (max-width:900px) and (min-width:550px) {
+ 
+    .heder-1 .ad1{
+        width: 250px ;
+        height: 100px ;
+        cursor: pointer;
+    } 
+}
+@media screen and (max-width:550px) and (min-width:400px) {
+    .heder-1 .ad1{
+        width: 200px ;
+        height: 100px ;
+        cursor: pointer;
+    } 
+}
+@media screen and (max-width:400px) and (min-width:300px) {
+    .heder-1 .ad1{
+        width: 170px ;
+        height: 100px ;
+        cursor: pointer;
+    } 
+}
+@media screen and (max-width:1200px) and (min-width:1070px) {
+    .heder-1 {
+        width: 25%;
+        height: 64px;
+        background-color:#1D2329;
+        display: flex;
+        align-items: center;
+    }
+    .heder2 {
+        width: 24%;
+        height: 64px;
+        background-color: #1D2329;
+        display: flex;
+        align-items: center;
+    }
+   .heder-1 .ad{
+    width: 25%;
+    height: 56px;
+    display: none;
+    }
+
+}
+@media screen and (max-width:1070px) and (min-width:800px) {
+    .heder-1 {
+        width: 13%;
+        height: 64px;
+        background-color: #1D2329;
+        display: flex;
+        align-items: center;
+    }
+    .heder2 {
+        width: 28%;
+        height: 64px;
+        background-color:#1D2329;
+        display: flex;
+        align-items: center;
+    }
+   .heder-1 .ad{
+    width: 48%;
+    height: 56px;
+    }
+    .heder-1 .ad1{
+        width: 170px ;
+        height: 100px ;
+        cursor: pointer;
+        display: none;
+    } 
+    .heder-4 {
+        width: 23%;
+        height: 64px;
+        background-color: #1D2329;
+        display: flex;
+        align-items: center;
+    }
+    
+
+.heder3 {
+    width: 31%;
+    height: 64px;
+    background-color: #1D2323;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+}
+@media screen and (max-width:800px) and (min-width:700px) {
+    .heder-1 {
+        width:8%;
+        height: 64px;
+        background-color: #1D2329;
+        display: flex;
+        align-items: center;
+    }
+    .heder2 {
+        width: 30%;
+        height: 64px;
+        background-color: #1D2329;
+        display: flex;
+        align-items: center;
+        /* display: none; */
+    }
+   .heder-1 .ad{
+    width:80%;
+    height: 56px;
+    }
+    .heder-1 .ad1{
+        width: 170px ;
+        height: 100px ;
+        cursor: pointer;
+        display: none;
+    } 
+    .heder-4 {
+        width: 23%;
+        height: 64px;
+        background-color: #1D2329;
+        display: flex;
+  
+        align-items: center;
+    }
+    
+
+.heder3 {
+    width: 34%;
+    height: 64px;
+    background-color: #1D2323;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* display: none; */
+}
+.btn-0{
+    display: none;
+}
+}
+@media screen and (max-width:700px) and (min-width:425px) {
+    .heder-1 {
+        width:35%;
+        height: 64px;
+        background-color: #1D2329;
+        display: flex;
+        align-items: center;
+    }
+    .heder2 {
+        width: 30%;
+        height: 64px;
+        background-color: #1D2329;
+        display: flex;
+        align-items: center;
+        display: none;
+    }
+   .heder-1 .ad{
+    width:30%;
+    height: 56px;
+    }
+    .heder-1 .ad1{
+        width: 170px ;
+        height: 100px ;
+        cursor: pointer;
+        display: none;
+    } 
+    .heder-4 {
+        width: 38%;
+        height: 64px;
+        background-color: #1D2329;
+        display: flex;
+  justify-content: center;
+        align-items: center;
+    }
+    
+
+.heder3 {
+    width: 34%;
+    height: 64px;
+    background-color: #1D2323;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: none;
+}
+.btn-0{
+    display: none;
+}
+.heder-5 {
+    width: 32%;
+    height: 64px;
+    background-color: #1D2329;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.btn-1 {
+    width: 80px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #01AC2D;
+    color: aliceblue;
+    border: 0px solid;
+    margin-left: 20px;
+    cursor: pointer;
+    display: none;
+}
+}
+@media screen and (max-width:425px) and (min-width:325px) {
+    .heder-1 {
+        width:35%;
+        height: 64px;
+        background-color: #1D2329;
+        display: flex;
+        align-items: center;
+    }
+    .heder2 {
+        width: 30%;
+        height: 64px;
+        background-color: #1D2329;
+        display: flex;
+        align-items: center;
+        display: none;
+    }
+   .heder-1 .ad{
+    width:40%;
+    height: 56px;
+    }
+    .heder-1 .ad1{
+        width: 170px ;
+        height: 100px ;
+        cursor: pointer;
+        display: none;
+    } 
+    .heder-4 {
+        width: 38%;
+        height: 64px;
+        background-color: #1D2329;
+        display: flex;
+  justify-content: center;
+        align-items: center;
+    }
+    
+
+.heder3 {
+    width: 34%;
+    height: 64px;
+    background-color: #1D2323;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: none;
+}
+.btn-0{
+    display: none;
+}
+.heder-5 {
+    width: 32%;
+    height: 64px;
+    background-color: #1D2329;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.btn-1 {
+    width: 80px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #1D2329;
+    color: aliceblue;
+    border: 0px solid;
+    margin-left: 20px;
+    cursor: pointer;
+    display: none;
+}
+}

@@ -1,0 +1,147 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.anim{
+  width: 100%;
+  height: 480px;
+  background-color: #1D2329;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.a7{
+    width: 92%;
+    height: 440px;
+    background-color: #1D2329;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+ 
+}
+.a7 img{
+width: 100%;
+height: 440px;
+}
+@media screen and (max-width:1000px) and (min-width:800px) {
+  .a7 img{
+    width: 100%;
+    height: 400px;
+    }
+    .a7{
+      width: 92%;
+      height: 400px;
+      background-color: #1D2329;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  
+   
+  }
+  .anim{
+    width: 100%;
+    height: 450px;
+    background-color: #1D2329;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media screen and (max-width:800px) and (min-width:600px) {
+  .a7 img{
+    width: 100%;
+    height: 380px;
+    }
+    .a7{
+      width: 92%;
+      height: 380px;
+      background-color: #1D2329;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  
+   
+  }
+  .anim{
+    width: 100%;
+    height: 420px;
+    background-color: #1D2329;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media screen and (max-width:600px) and (min-width:510px) {
+  .a7 img{
+    width: 100%;
+    height: 350px;
+    }
+    .a7{
+      width: 92%;
+      height: 350px;
+      background-color: #1D2329;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  
+   
+  }
+  .anim{
+    width: 100%;
+    height: 400px;
+    background-color: #1D2329;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media screen and (max-width:510px) and (min-width:425px) {
+  .a7 img{
+    width: 100%;
+    height: 300px;
+    }
+    .a7{
+      width: 92%;
+      height: 300px;
+      background-color: #1D2329;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  
+   
+  }
+  .anim{
+    width: 100%;
+    height: 350px;
+    background-color: #1D2329;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media screen and (max-width:425px) and (min-width:355px) {
+  .a7 img{
+    width: 100%;
+    height: 270px;
+    }
+    .a7{
+      width: 92%;
+      height: 270px;
+      background-color: #1D2329;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  
+   
+  }
+  .anim{
+    width: 100%;
+    height: 300px;
+    background-color: #1D2329;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}

@@ -1,0 +1,205 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.a110{
+    width: 100%;
+    height: 600px;
+    background-color:#1D2329;
+    display: none;
+}
+.a111{
+    width: 100%;
+    height:80px;
+    background-color: #1D2329;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    border-bottom:1px solid #A2A9D3 ;
+}
+.a112{
+    width: 92%;
+    height: 80px;
+    background-color: #1D2329;
+    display: flex;
+    align-items: center;
+    border-bottom:1px solid #A2A9D3;
+}
+.a112 h3{
+    font-size: 23px;
+    font-weight: 700;
+    color: aliceblue;
+}
+.a113{
+    width: 100%;
+    height: 500px;
+    background-color: #1D2329;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.a114{
+    width: 92%;
+    height: 500px;
+    background-color: #1D2329;
+}
+.a114 h5{
+    color: #A2A9B3;
+}
+
+@media screen and (max-width:1300px) and (min-width:900px) {
+    .a110{
+        width: 100%;
+        height: 700px;
+        background-color:#1D2329;
+        display: none;
+    }
+    .a113{
+        width: 100%;
+        height: 600px;
+        background-color: #1D2329;
+        display: flex;
+        justify-content: center;
+        /* align-items: center; */
+    }
+    
+    .a114{
+        width: 92%;
+        height:600px;
+        background-color: #1D2329;
+    }
+}
+@media screen and (max-width:900px) and (min-width:750px) {
+    .a110{
+        width: 100%;
+        height: 800px;
+        background-color: #1D2329;
+        display: none;
+    }
+    .a113{
+        width: 100%;
+        height: 700px;
+        background-color:#1D2329;
+        display: flex;
+        justify-content: center;
+        /* align-items: center; */
+    }
+    
+    .a114{
+        width: 92%;
+        height:700px;
+        background-color: #1D2329;
+    }
+}
+@media screen and (max-width:752px) and (min-width:600px) {
+    .a110{
+        width: 100%;
+        height: 1000px;
+        background-color: #1D2329;
+        display: none;
+    }
+    .a113{
+        width: 100%;
+        height: 900px;
+        background-color: #1D2329;
+        display: flex;
+        justify-content: center;
+        /* align-items: center; */
+    }
+    
+    .a114{
+        width: 92%;
+        height:900px;
+        background-color: #1D2329;
+    }
+}
+@media screen and (max-width:600px) and (min-width:510px) {
+    .a110{
+        width: 100%;
+        height: 1100px;
+        background-color: #1D2329;
+        display: none;
+    }
+    .a113{
+        width: 100%;
+        height: 1000px;
+        background-color: #1D2329;
+        display: flex;
+        justify-content: center;
+        /* align-items: center; */
+    }
+    
+    .a114{
+        width: 92%;
+        height:1000px;
+        background-color: #1D2329;
+    }
+}
+@media screen and (max-width:510px) and (min-width:400px) {
+    .a110{
+        width: 100%;
+        height: 1200px;
+        background-color:#1D2329;
+        display: none;
+    }
+    .a113{
+        width: 100%;
+        height: 1100px;
+        background-color: #1D2329;
+        display: flex;
+        justify-content: center;
+        /* align-items: center; */
+    }
+    
+    .a114{
+        width: 92%;
+        height:1100px;
+        background-color: #1D2329;
+    }
+}
+@media screen and (max-width:450px) and (min-width:390px) {
+    .a110{
+        width: 100%;
+        height: 1400px;
+        background-color: #1D2329;
+        display: none;
+    }
+    .a113{
+        width: 100%;
+        height: 1300px;
+        background-color: #1D2329;
+        display: flex;
+        justify-content: center;
+        /* align-items: center; */
+    }
+    
+    .a114{
+        width: 92%;
+        height:1300px;
+        background-color: #1D2329;
+    }
+}
+@media screen and (max-width:390px) and (min-width:350px) {
+    .a110{
+        width: 100%;
+        height: 1500px;
+        background-color: #1D2329;
+        display: none;
+    }
+    .a113{
+        width: 100%;
+        height: 1400px;
+        background-color: #1D2329;
+        display: flex;
+        justify-content: center;
+        /* align-items: center; */
+    }
+    
+    .a114{
+        width: 92%;
+        height:1400px;
+        background-color: #1D2329;
+    }
+}
